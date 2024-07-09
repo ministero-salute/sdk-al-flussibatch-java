@@ -1,1 +1,2 @@
-# sdk-al-flussibatch-java
+## mantainer:
+ Accenture SpA until January 2026
